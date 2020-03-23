@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pvpfac",
+  "name": "Mod pvpfac",
+  "description": "Mod personnalisé pvp faction",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["gamery"],
+  "credits": "Gamery mod all right reserved use for server only",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
